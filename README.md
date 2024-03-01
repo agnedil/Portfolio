@@ -12,12 +12,12 @@ This documentation outlines the process of instruction fine-tuning the Llama 2 7
 - **Video Demo**: A detailed explanation of concepts and code walkthrough available on [YouTube](https://youtu.be/i9Xtmsbc-74).
 - **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing). Note: click the `Open with Google Colaboratory` button at the top of the page.
 
-### Advanced RAG Application Using Llama 2 Deployed in HuggingFace Spaces
+### Advanced Gradio RAG Application Using Llama 2 Deployed in HuggingFace Spaces
 - **Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
 - **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
 - **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
 
-### Advanced RAG Application Using Llama 2 Deployed in Streamlit Cloud
+### Advanced Streamlit RAG Application Using Llama 2 Deployed in Streamlit Cloud
 - **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
 - **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
 - **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
