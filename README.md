@@ -1,7 +1,6 @@
-# Portfolio
-My non-proprietary projects
+# Portfolio of non-proprietary projects
 
-## Instruction Fine-Tuning of Llama 2 7B Model
+### Instruction Fine-Tuning of Llama 2 7B Model
 
 This documentation outlines the process of instruction fine-tuning the Llama 2 7B model using the Supervised Fine-Tuning (SFT) method, incorporating Parameter Efficient Fine-Tuning (PEFT), Low-Rank Adaptation (LORA), and 4-bit quantization techniques.
 
@@ -11,18 +10,18 @@ This documentation outlines the process of instruction fine-tuning the Llama 2 7
 	- **Hugging Face Libraries**: Specifically, `peft`, `trl`, and `load_dataset` for efficient fine-tuning and data loading.
 - **Fine-Tuned Model** in HuggingFace Hub: [llama-2-7b-alpaca-gpt4](https://huggingface.co/agnedil/llama-2-7b-alpaca-gpt4)
 - **Video Demo**: A detailed explanation of concepts and code walkthrough available on [YouTube](https://youtu.be/i9Xtmsbc-74).
-- **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing).
+- **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing). Note: click the `Open with Google Colaboratory` button at the top of the page.
 
-## Advanced RAG Application Using Llama 2 Deployed in HuggingFace Spaces
+### Advanced RAG Application Using Llama 2 Deployed in HuggingFace Spaces
 - **Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
 - **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
 - **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
 
-## Advanced RAG Application Using Llama 2 Deployed in Streamlit Cloud
+### Advanced RAG Application Using Llama 2 Deployed in Streamlit Cloud
 - **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
 - **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
 - **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
 - **Video Demo**: A detailed walkthrough of the app is available on [YouTube](https://youtu.be/CHJo--kQERQ?si=yWyq_0Vr8Igep7mX).
 
-## Portfolio
-Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work.
+### Other Recent Projects
+Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my other recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work.
