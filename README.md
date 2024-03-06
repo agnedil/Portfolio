@@ -17,7 +17,7 @@ This documentation outlines the process of instruction fine-tuning the Llama 2 7
 - **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
 - **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
 
-### Advanced Streamlit RAG Application Using Llama 2 Deployed in Streamlit Cloud
+### Advanced Multi-Page Streamlit RAG Application Using Llama 2 Deployed in Streamlit Cloud
 - **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
 - **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
 - **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
