@@ -5,9 +5,9 @@
 This documentation outlines the process of instruction fine-tuning the Llama 2 7B model using the Supervised Fine-Tuning (SFT) method, incorporating Parameter Efficient Fine-Tuning (PEFT), Low-Rank Adaptation (LORA), and 4-bit quantization techniques.
 
 - **Technologies**:
+	- **Hugging Face Transformers**: state-of-the-art library for NLP tasks developed by Hugging Face.
+	- **Other Hugging Face Libraries**: Specifically, `peft`, `trl`, and `load_dataset` for efficient fine-tuning and data loading.
 	- **PyTorch**: open-source ML library for deep learning, e.g. computer vision and NLP applications. Originally developed by Meta AI.
-	- **Transformers**: state-of-the-art library for NLP tasks developed by Hugging Face.
-	- **Hugging Face Libraries**: Specifically, `peft`, `trl`, and `load_dataset` for efficient fine-tuning and data loading.
 - **Fine-Tuned Model** in HuggingFace Hub: [llama-2-7b-alpaca-gpt4](https://huggingface.co/agnedil/llama-2-7b-alpaca-gpt4)
 - **Video Demo**: A detailed explanation of concepts and code walkthrough available on [YouTube](https://youtu.be/i9Xtmsbc-74).
 - **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing). Note: click the `Open with Google Colaboratory` button at the top of the page.
