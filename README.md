@@ -23,13 +23,13 @@ Instruction fine-tuning of the `Llama 2 7B` model using the SFT, PEFT, LORA, and
 Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instruction fine-tuning of the `Llama 2 13B model` on a single or multiple GPUs. Adjust code to your specific needs.
 
 
-## 4. Advanced Gradio RAG Application Using Llama 2 Deployed in HuggingFace Spaces
+## 4. Advanced Gradio RAG Application (Uses Llama 2) Deployed in HuggingFace Spaces
 - **Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
 - **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
 - **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
 
 
-## 5. Advanced Multi-Page Streamlit RAG Application Using Llama 2 Deployed in Streamlit Cloud
+## 5. Advanced Multi-Page Streamlit RAG Application (Uses Llama 2) Deployed in Streamlit Cloud
 - **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
 - **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
 - **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
