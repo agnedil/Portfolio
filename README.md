@@ -9,7 +9,7 @@
 * multiple rounds of experiments and consecutive improvements.
 
 ## 2. Python Developer Coding Interview Preparation
-[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer). Includes:
+[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) which I collected from multiple sources. Includes:
 * Coding challenges from most of the FAANG companies.
 * Algorithms and data structures as examples of Python code.
 * Big O notation explained based on practical examples of Python code.
