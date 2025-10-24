@@ -50,5 +50,26 @@ Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instru
 - **Video Demo**: A detailed walkthrough of the app is available on [YouTube](https://youtu.be/CHJo--kQERQ?si=yWyq_0Vr8Igep7mX).
 
 
-## 8. Other Recent Projects
-Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my other recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work.
+## 8. Detecting Fake Customer Reviews of Products
+[Methodology and report for detecting fake reviews](https://github.com/agnedil/fake_reviews) about various products on Amazon.com. The methodology is based on machine learning approaches that allow to determine fake reviews automatically. Use case: help potential buyers understand whether the reviews for a specific product are authentic or fake, and what the percentage of fake reviews there is in order to make informed decisions about what products to purchase.
+
+
+## 9. Other Recent Projects
+Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my other recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
+* NLP (Main Focus)
+    * Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
+    * Generative AI
+    * ChatGPT API
+    * Prompt engineering
+    * Transformers
+    * Semantic search using transformers
+    * Sequence models (LSTMs, etc.)
+    * BoW models
+* Other Machine Learning Topics
+    * General machine learning algorithms and helper functions
+* Certificates
+    * Certificates for NLP and DL nano-degrees and other courses 
+* Visualization
+    * I have used multiple visualization tools: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
+    * Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
+
