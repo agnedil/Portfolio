@@ -56,7 +56,7 @@ Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instru
 
 ## 9. Other Recent Projects
 Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my other recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
-* NLP (Main Focus)
+* NLP
     * Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
     * Generative AI
     * ChatGPT API
@@ -73,3 +73,17 @@ Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for
     * I have used multiple visualization tools: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
     * Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
+
+## 10. Other Old Project
+[Non-proprietary projects completed long time ago.](https://github.com/agnedil/Portfolio-Archive). Some of this code may seem simplistic, but I would still like to keep it for reference because there are code snippets containing interesting solutions. Content:
+* NLP
+    * Embeddings
+    * Topic modeling
+    * Conversational AI
+    * Other miscellaneous projects
+* Machine Learning
+    * General machine learning algorithms and helper functions
+* Computer Vision
+    * Semantic segmentation, image denoising, classification and other image analysis methods
+* Cloud Technologies
+    * Hadoop, MapReduce, MLlib, Giraph, Apache Spark, etc.
