@@ -74,7 +74,7 @@ This repository includes only non-proprietary projects completed outside of my e
 
 
 ## 8. Other Old Project
-[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). May seem simplistic - keeping for reference. Content:
+[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). May seem simplistic - keeping just for reference. Content:
 * NLP
     * Embeddings
     * Topic modeling
