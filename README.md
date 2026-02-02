@@ -55,7 +55,7 @@ This repository includes only non-proprietary projects completed outside of my e
 
 
 ## 7. Other Recent Projects
-Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for a glimpse into my other recent non-proprietary projects. Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
+[Other non-proprietary projects](https://github.com/agnedil/Portfolio-Recent). Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
 * NLP
     * Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
     * Prompt Engineering
@@ -74,7 +74,7 @@ Check out my [Recent Portfolio](https://github.com/agnedil/Portfolio-Recent) for
 
 
 ## 8. Other Old Project
-[Non-proprietary projects completed long time ago.](https://github.com/agnedil/Portfolio-Archive). Some of this code may seem simplistic, but I would still like to keep it for reference because there are code snippets containing interesting solutions. Content:
+[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). May seem simplistic - keeping for reference. Content:
 * NLP
     * Embeddings
     * Topic modeling
