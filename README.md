@@ -33,19 +33,23 @@ This repository includes only non-proprietary projects completed outside of my e
 	- **PyTorch**: open-source ML library for deep learning, e.g. computer vision and NLP applications. Originally developed by Meta AI.
 ** **Fine-Tuned Models** in HuggingFace Hub: [Mistral-7B-openassistant-guanaco](https://huggingface.co/agnedil/Mistral-7B-openassistant-guanaco) and [Mistral-7B-openassistant-guanaco-v2](https://huggingface.co/agnedil/Mistral-7B-openassistant-guanaco-v2).
 ** **Google Colab Notebooks**: Access [notebook 1](https://colab.research.google.com/drive/1q7GpzXDlRrvmpCIFWcZg-WLtKcrzFdGn?usp=sharing) and [notebook 2](https://colab.research.google.com/drive/19lYWzMvZAc2cWPojRiPnYIR5Ok62CgFQ?usp=sharing) used to fine-tune the two models. Note: click the `Open with Google Colaboratory` button at the top of the page if Google Colab doesn’t open automatically.
+
 * Instruction fine-tuning of the `Llama 2 7B` model using the SFT, PEFT, LORA, and 4-bit quantization techniques.
+
 ** **Technologies**: PyTorch and Hugging Face libraries `transformers`, `peft`, `trl`, and `load_dataset`.
 ** **Fine-Tuned Model** in HuggingFace Hub: [llama-2-7b-alpaca-gpt4](https://huggingface.co/agnedil/llama-2-7b-alpaca-gpt4)
 ** **Video Demo**: A detailed explanation of concepts and code walkthrough available on [YouTube](https://youtu.be/i9Xtmsbc-74).
 ** **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing). ** Note: click the `Open with Google Colaboratory` button at the top of the page if Google Colab doesn’t open automatically.
+
 * Instruction Fine-Tuning of Llama 13B Model with DeepSpeed
+
 ** Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instruction fine-tuning of the `Llama 2 13B model` on a single or multiple GPUs. Adjust code to your specific needs.
 
 ## 5. Detecting Fake Customer Reviews of Products
 [Methodology and report for detecting fake reviews](https://github.com/agnedil/fake_reviews) about various products on Amazon.com. The methodology is based on machine learning approaches that allow to determine fake reviews automatically. Use case: help potential buyers understand whether the reviews for a specific product are authentic or fake, and what the percentage of fake reviews there is in order to make informed decisions about what products to purchase.
 
 ## 6. Python Developer Coding Interview Preparation
-[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) which I collected from multiple sources. Includes:
+[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) collected from multiple sources. Includes:
 * Coding challenges from most of the FAANG companies.
 * Algorithms and data structures as examples of Python code.
 * Big O notation explained based on practical examples of Python code.
