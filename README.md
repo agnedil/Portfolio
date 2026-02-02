@@ -14,14 +14,14 @@ This repository includes only non-proprietary projects completed outside of my e
 
 ## 3. RAG
 * [RAG implemented using Langchain and Langgraph frameworks](https://github.com/agnedil/Portfolio-Recent/tree/main/02-RAG)
-* Advanced RAG - Gradio App in HuggingFace Spaces
-    * Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
-    * **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
+* **Advanced RAG - Gradio App in HuggingFace Spaces**
+    * **Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
     * **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
-* Advanced RAG - Multi-Page Streamlit App
+    * **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
+* **Advanced RAG - Multi-Page Streamlit App**
     * **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
-    * **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
     * **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
+    * **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
     * **Video Demo**: A detailed walkthrough of the app is available on [YouTube](https://youtu.be/CHJo--kQERQ?si=yWyq_0Vr8Igep7mX).
 
 ## 4. Fine-Tuning LLMs
