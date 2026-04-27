@@ -1,30 +1,22 @@
-# Portfolio of Non-Proprietary Projects
-This repository includes only non-proprietary projects completed outside of my employment. Please keep in mind that the time available for such work is limited.
+# Non-Proprietary Projects
+This repository contains non-proprietary projects completed outside of my employment.
 
-## 1. Code Generation
-[Code for and text of my doctoral dissertation](https://github.com/agnedil/code-generation) - Boosting the Code Generation Capabilities of Small Language Models (SLMs) Using Agents. Includes:
-* a framework to automatically run and evaluate multiple small language models on 4 code generation datasets,
-* hyperparameter tuning,
-* post-processing of generated code,
-* SLM fine-tuning,
-* experiments with consecutive improvements.
 
-## 2. Agents
-* [Various types of agents implemented](https://github.com/agnedil/Portfolio-Recent/tree/main/01-Agents)
+## 1. Agents
+* [Implementing different types of agents using multiple agentic frameworks](https://github.com/agnedil/Portfolio-Recent/tree/main/01-Agents)
 
-## 3. RAG
-* [RAG implemented using Langchain and Langgraph frameworks](https://github.com/agnedil/Portfolio-Recent/tree/main/02-RAG)
-* **Advanced RAG - Gradio App in HuggingFace Spaces**
+
+## 2. RAG
+* [Multiple RAG implementations using LangChain and LangGraph frameworks](https://github.com/agnedil/Portfolio-Recent/tree/main/02-RAG)
+* **RAG Using Gradio App in HuggingFace Spaces**
     * **Technologies**: Gradio, LangChain, ensemble retriever FAISS + BM25, re-ranking.
     * **GitHub Repository**: [rag-demo-with-gradio](https://github.com/agnedil/rag-demo-with-gradio)
-    * **Web App**: [RAG Demo with Gradio](https://huggingface.co/spaces/agnedil/rag-demo-with-gradio)
-* **Advanced RAG - Multi-Page Streamlit App**
+* **RAG Using Multi-Page Streamlit App**
     * **Technologies**: multi-page Streamlit app, LangChain, ensemble retriever FAISS + BM25, re-ranking, chat history.
     * **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
-    * **Web App**: [Streamlit App](https://llm-rag.streamlit.app/)
-    * **Video Demo**: A detailed walkthrough of the app is available on [YouTube](https://youtu.be/CHJo--kQERQ?si=yWyq_0Vr8Igep7mX).
 
-## 4. Fine-Tuning LLMs
+
+## 3. Fine-Tuning LLMs
 * [Multi-GPU Fine-Tuning and Inference](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/Multi-GPU)
 * Fine-tuning of the `Mistral 7B` model using the Supervised Fine-Tuning (SFT) method, incorporating Parameter Efficient Fine-Tuning (PEFT), Low-Rank Adaptation (LORA), and 4-bit quantization techniques. **Technologies**:
 	- **Hugging Face Transformers**: state-of-the-art library for NLP tasks developed by Hugging Face.
@@ -43,18 +35,8 @@ This repository includes only non-proprietary projects completed outside of my e
 * Instruction Fine-Tuning of Llama 13B Model with DeepSpeed
     - Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instruction fine-tuning of the `Llama 2 13B model` on a single or multiple GPUs. Adjust code to your specific needs.
 
-## 5. Detecting Fake Customer Reviews of Products
-* [Methodology and report for detecting fake reviews](https://github.com/agnedil/fake_reviews) about various products on Amazon.com. The methodology is based on machine learning approaches that allow to determine fake reviews automatically. Use case: help potential buyers understand whether the reviews for a specific product are authentic or fake, and what the percentage of fake reviews there is in order to make informed decisions about what products to purchase.
 
-## 6. Python Developer Coding Interview Preparation
-[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) collected from multiple sources. Includes:
-* Coding challenges from most of the FAANG companies.
-* Algorithms and data structures as examples of Python code.
-* Big O notation explained based on practical examples of Python code.
-* Other coding resources
-
-
-## 7. Other Recent Projects
+## 4. Recent Projects
 [Other non-proprietary projects](https://github.com/agnedil/Portfolio-Recent). Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
 * NLP
     * Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
@@ -72,9 +54,35 @@ This repository includes only non-proprietary projects completed outside of my e
     * I have used multiple visualization tools: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
     * Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
+## 5. Monte Carlo Simulation - Solution for the Monty Hall Problem
+[Monte Carlo Simulation for the Monty Hall Problem](https://github.com/agnedil/monte-carlo-for-monty-hall) - empirical experimental confirmation of the famous counter-intuitive answer to the three-door problem: always switch your answer.
 
-## 8. Other Old Project
-[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). May seem simplistic - keeping just for reference. Content:
+## 6. Evaluating Quality of Machine Translation
+[Machine Translation Quality Evaluation](https://github.com/agnedil/mt-quality-evaluation) using reference-based and reference-free metrics, as well as LLM-as-a-judge approach.
+
+## 7. Detecting Fake Customer Reviews of Products
+* [Methodology and report for detecting fake reviews](https://github.com/agnedil/fake_reviews) about various products on Amazon.com. The methodology is based on machine learning approaches that allow to determine fake reviews automatically. Use case: help potential buyers understand whether the reviews for a specific product are authentic or fake, and what the percentage of fake reviews there is in order to make informed decisions about what products to purchase.
+
+
+## 8. Code Generation
+[Code for my doctoral dissertation](https://github.com/agnedil/code-generation) - Boosting the Code Generation Capabilities of Small Language Models (SLMs) Using Agents. Includes:
+* a framework to automatically run and evaluate multiple small language models on 4 code generation evaluation datasets,
+* hyperparameter tuning,
+* post-processing of generated code,
+* SLM fine-tuning,
+* experiments with consecutive improvements.
+
+
+## 9. Python Developer Coding Interview Preparation
+[Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) collected from multiple sources. Includes:
+* Coding challenges from most of the FAANG companies.
+* Algorithms and data structures as examples of Python code.
+* Big O notation explained based on practical examples of Python code.
+* Other coding resources
+
+
+## 10. Other Old Project
+[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). Somewhat outdated and simplistic solutions - keeping just for reference. Content:
 * NLP
     * Embeddings
     * Topic modeling
