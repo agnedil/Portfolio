@@ -54,14 +54,17 @@ This repository contains non-proprietary projects completed outside of my employ
     * I have used multiple visualization tools: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
     * Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
+
 ## 5. Monte Carlo Simulation - Solution for the Monty Hall Problem
 [Monte Carlo Simulation for the Monty Hall Problem](https://github.com/agnedil/monte-carlo-for-monty-hall) - empirical experimental confirmation of the famous counter-intuitive answer to the three-door problem: always switch your answer.
+
 
 ## 6. Evaluating Quality of Machine Translation
 [Machine Translation Quality Evaluation](https://github.com/agnedil/mt-quality-evaluation) using reference-based and reference-free metrics, as well as LLM-as-a-judge approach.
 
+
 ## 7. Detecting Fake Customer Reviews of Products
-* [Methodology and report for detecting fake reviews](https://github.com/agnedil/fake_reviews) about various products on Amazon.com. The methodology is based on machine learning approaches that allow to determine fake reviews automatically. Use case: help potential buyers understand whether the reviews for a specific product are authentic or fake, and what the percentage of fake reviews there is in order to make informed decisions about what products to purchase.
+[Detecting fake customer reviews of products on Amazon](https://github.com/agnedil/fake_reviews). This is a machine-learning based approach that allows to determine fake reviews automatically. Use case: help buyers understand whether the reviews for a specific product are authentic or fake to make informed decisions about what products to purchase. The methodolgy also determines the percentage of fake reviews.
 
 
 ## 8. Code Generation
