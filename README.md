@@ -60,7 +60,7 @@ This repository contains non-proprietary projects completed outside of my employ
 
 
 ## 6. Evaluating Quality of Machine Translation
-[Machine Translation Quality Evaluation](https://github.com/agnedil/mt-quality-evaluation) using reference-based and reference-free metrics, as well as LLM-as-a-judge approach.
+[Machine Translation Quality Evaluation](https://github.com/agnedil/evaluating-machine-translation-quality) using reference-based and reference-free metrics, as well as LLM-as-a-judge approach.
 
 
 ## 7. Detecting Fake Customer Reviews of Products
