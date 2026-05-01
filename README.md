@@ -1,5 +1,5 @@
-# Non-Proprietary Projects
-This repository contains non-proprietary projects completed outside of my employment.
+# Publicly available code samples
+Non-proprietary projects completed outside of my employment.
 
 
 ## 1. Agents
@@ -16,24 +16,15 @@ This repository contains non-proprietary projects completed outside of my employ
     * **GitHub Repository**: [RAG Demo with Streamlit](https://github.com/agnedil/rag-demo-with-streamlit)
 
 
-## 3. Fine-Tuning LLMs
-* [Multi-GPU Fine-Tuning and Inference](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/Multi-GPU)
-* Fine-tuning of the `Mistral 7B` model using the Supervised Fine-Tuning (SFT) method, incorporating Parameter Efficient Fine-Tuning (PEFT), Low-Rank Adaptation (LORA), and 4-bit quantization techniques. **Technologies**:
-	- **Hugging Face Transformers**: state-of-the-art library for NLP tasks developed by Hugging Face.
-	- **Other Hugging Face Libraries**: Specifically, `peft`, `trl`, and `load_dataset` for efficient fine-tuning and data loading.
-	- **PyTorch**: open-source ML library for deep learning, e.g. computer vision and NLP applications. Originally developed by Meta AI.
-    - **Fine-Tuned Models** in HuggingFace Hub: [Mistral-7B-openassistant-guanaco](https://huggingface.co/agnedil/Mistral-7B-openassistant-guanaco) and [Mistral-7B-openassistant-guanaco-v2](https://huggingface.co/agnedil/Mistral-7B-openassistant-guanaco-v2).
-    - **Google Colab Notebooks**: Access [notebook 1](https://colab.research.google.com/drive/1q7GpzXDlRrvmpCIFWcZg-WLtKcrzFdGn?usp=sharing) and [notebook 2](https://colab.research.google.com/drive/19lYWzMvZAc2cWPojRiPnYIR5Ok62CgFQ?usp=sharing) used to fine-tune the two models. Note: click the `Open with Google Colaboratory` button at the top of the page if Google Colab doesn’t open automatically.
-
-* Instruction fine-tuning of the `Llama 2 7B` model using the SFT, PEFT, LORA, and 4-bit quantization techniques.
-    - **Technologies**: PyTorch and Hugging Face libraries `transformers`, `peft`, `trl`, and `load_dataset`.
-    - **Fine-Tuned Model** in HuggingFace Hub: [llama-2-7b-alpaca-gpt4](https://huggingface.co/agnedil/llama-2-7b-alpaca-gpt4)
-    - **Video Demo**: A detailed explanation of concepts and code walkthrough available on [YouTube](https://youtu.be/i9Xtmsbc-74).
-    - **Google Colab Notebook**: Access the notebook used in the video [here](https://drive.google.com/file/d/1xhO3vxluFqUe5RPPvZhbxVfC1cTVPYgb/view?usp=sharing).
-    - Note: click the `Open with Google Colaboratory` button at the top of the page if Google Colab doesn’t open automatically.
-
-* Instruction Fine-Tuning of Llama 13B Model with DeepSpeed
-    - Example [script](https://github.com/agnedil/fine-tune-with-deepspeed) for instruction fine-tuning of the `Llama 2 13B model` on a single or multiple GPUs. Adjust code to your specific needs.
+## 3. LLM Fine-Tuning (including from scratch)
+* [Fine-tuning every modality of Gemma 4](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/1-gemma4-multimodal-supervised-fine-tuning)
+* [Fine-tuning Llama 3.1 or a similar model like Ministral 8B](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/2-llama-8b-or-similar-model-supervised-fine-tuning)
+* [Multi-GPU Fine-Tuning and Inference](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/3-multi-gpu-supervised-fine-tuning-and-inference)
+* [Preference optimization](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/4-preference-optimization)
+* [Continued pretraining](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/5-continued-pretraining)
+* [RLHF](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/6-reinforcement-learning-from-human-feedback-ppo)
+* [Knowledge distillation](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/7-knowledge-distillation) 
+* Instruction Fine-Tuning of Llama 13B Model with [DeepSpeed](https://github.com/agnedil/fine-tune-with-deepspeed) on a single or multiple GPUs.
 
 
 ## 4. Recent Projects
@@ -52,7 +43,7 @@ This repository contains non-proprietary projects completed outside of my employ
     * Certificates for NLP and DL nano-degrees and other courses 
 * Visualization
     * I have used multiple visualization tools: Matplotlib, Plotly, Ggplot2, R Shiny, Tableau, Spotfire, etc.
-    * Small example of non-proprietary visualization project using D3.js: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
+    * D3.js visualization: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
 
 ## 5. Monte Carlo Simulation - Solution for the Monty Hall Problem
@@ -85,7 +76,7 @@ This repository contains non-proprietary projects completed outside of my employ
 
 
 ## 10. Other Old Project
-[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). Somewhat outdated and simplistic solutions - keeping just for reference. Content:
+[Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). Somewhat outdated and simplistic solutions - keeping for reference. Content:
 * NLP
     * Embeddings
     * Topic modeling
