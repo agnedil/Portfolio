@@ -1,6 +1,9 @@
 # Publicly available code samples
 Non-proprietary projects completed outside of my employment.
 
+## 0. Multimodal Applications
+* [Multimodal RAG](https://github.com/agnedil/Portfolio-Recent/tree/main/00-Multimodal/Multimodal-RAG) - SigLIP for blazingly fast text and image encodings in the same embedding space + Qdrant as vector store + Gemini Flash to answer enriched queries.
+* [Intelligent Image Safety Triage](https://github.com/agnedil/Portfolio-Recent/tree/main/00-Multimodal/Complex-Image-Safety-Classifier) - a cheap, specialist safety classifier that runs on 90% of Tier 2 images (`shieldgemma-2-4b-it`) and a large generalist model (`gemini-2.5-flash`) for a small slice of more complex Tier 1 flags - edge cases.
 
 ## 1. Agents
 * [Implementing different types of agents using multiple agentic frameworks](https://github.com/agnedil/Portfolio-Recent/tree/main/01-Agents)
@@ -26,8 +29,11 @@ Non-proprietary projects completed outside of my employment.
 * [Knowledge distillation](https://github.com/agnedil/Portfolio-Recent/tree/main/03-LLM-Fine-Tuning/7-knowledge-distillation) 
 * Instruction Fine-Tuning of Llama 13B Model with [DeepSpeed](https://github.com/agnedil/fine-tune-with-deepspeed) on a single or multiple GPUs.
 
+## 4. Geoscience Application
+* Predicting [Direct Hydrocarbon Indicators (DHIs)](https://github.com/agnedil/Portfolio-Recent/tree/main/10a-Direct-Hydrocarbon-Indicators-Prediction) using U-Net trained on stacked seismic attributes.
+* [Oil & Gas Well Toolkit](https://github.com/agnedil/Portfolio-Recent/tree/main/10b-Geoscience-Toolkit) - tools using `GeoPandas` to ingest and map surface well locations, `Welly` to plot well logs, `PyVista` to render 3D trajectories of horizontal wells, and `Plotly` to build an interactive HTML dashboard with rotatable 3D wellbore paths.
 
-## 4. Recent Projects
+## 5. Recent Projects
 [Other non-proprietary projects](https://github.com/agnedil/Portfolio-Recent). Note that being non-proprietary, this code doesn't reflect the complex and multi-faceted nature of projects that I normally complete at work. Content:
 * NLP
     * Participation in two ACL (Association for Computational Linguistics) WASSA 2023 Shared Tasks
@@ -46,19 +52,19 @@ Non-proprietary projects completed outside of my employment.
     * D3.js visualization: **website** at https://agnedil.github.io/; **code** at https://github.com/agnedil/agnedil.github.io
 
 
-## 5. Monte Carlo Simulation - Solution for the Monty Hall Problem
+## 6. Monte Carlo Simulation - Solution for the Monty Hall Problem
 [Monte Carlo Simulation for the Monty Hall Problem](https://github.com/agnedil/monte-carlo-for-monty-hall) - empirical experimental confirmation of the famous counter-intuitive answer to the three-door problem: always switch your answer.
 
 
-## 6. Evaluating Quality of Machine Translation
+## 7. Evaluating Quality of Machine Translation
 [Machine Translation Quality Evaluation](https://github.com/agnedil/evaluating-machine-translation-quality) using reference-based and reference-free metrics, as well as LLM-as-a-judge approach.
 
 
-## 7. Detecting Fake Customer Reviews of Products
+## 8. Detecting Fake Customer Reviews of Products
 [Detecting fake customer reviews of products on Amazon](https://github.com/agnedil/fake_reviews). This is a machine-learning based approach that allows to determine fake reviews automatically. Use case: help buyers understand whether the reviews for a specific product are authentic or fake to make informed decisions about what products to purchase. The methodolgy also determines the percentage of fake reviews.
 
 
-## 8. Code Generation
+## 9. Code Generation
 [Code for my doctoral dissertation](https://github.com/agnedil/code-generation) - Boosting the Code Generation Capabilities of Small Language Models (SLMs) Using Agents. Includes:
 * a framework to automatically run and evaluate multiple small language models on 4 code generation evaluation datasets,
 * hyperparameter tuning,
@@ -67,7 +73,7 @@ Non-proprietary projects completed outside of my employment.
 * experiments with consecutive improvements.
 
 
-## 9. Python Developer Coding Interview Preparation
+## 10. Python Developer Coding Interview Preparation
 [Practical Guide to Prepare for a Python Coding Interview](https://github.com/agnedil/Interview-Prep-Python-Developer) collected from multiple sources. Includes:
 * Coding challenges from most of the FAANG companies.
 * Algorithms and data structures as examples of Python code.
@@ -75,7 +81,7 @@ Non-proprietary projects completed outside of my employment.
 * Other coding resources
 
 
-## 10. Other Old Project
+## 11. Other Old Project
 [Non-proprietary projects completed long time ago](https://github.com/agnedil/Portfolio-Archive). Somewhat outdated and simplistic solutions - keeping for reference. Content:
 * NLP
     * Embeddings
@@ -88,3 +94,4 @@ Non-proprietary projects completed outside of my employment.
     * Semantic segmentation, image denoising, classification and other image analysis methods
 * Cloud Technologies
     * Hadoop, MapReduce, MLlib, Giraph, Apache Spark, etc.
+x
